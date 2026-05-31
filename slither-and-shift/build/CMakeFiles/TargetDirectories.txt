@@ -1,0 +1,3 @@
+/Users/pat/Documents/CS/slither-and-shift/build/CMakeFiles/SlitherAndShift.dir
+/Users/pat/Documents/CS/slither-and-shift/build/CMakeFiles/edit_cache.dir
+/Users/pat/Documents/CS/slither-and-shift/build/CMakeFiles/rebuild_cache.dir
