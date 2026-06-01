@@ -14,7 +14,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 #   Option B: set the SFML_DIR cmake variable manually:
 #     cmake -DSFML_DIR=/path/to/SFML/lib/cmake/SFML ..
 # ---------------------------------------------------------------------------
-find_package(SFML 3.0 COMPONENTS Graphics Window System Audio Network REQUIRED)
+find_package(SFML REQUIRED COMPONENTS graphics window system)
 
 # ---------------------------------------------------------------------------
 # Sources
